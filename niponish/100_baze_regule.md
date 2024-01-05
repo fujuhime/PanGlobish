@@ -1,8 +1,6 @@
-# The 10 Rules of Panglobish
+# Panglobish の 10 の決まり
 
-Panglobish is so simple that its basic grammar can be described in only ten rules,
-all of which can fit on a sheet of paper.
-There are no exceptions.
+Panglobish はとても単純なので、基本的な文法は、10 個の決まりごとだけで要約することができます。全て書きあげても、一枚の紙に収まるほどの分量です。どの規則にも、例外はありません。
 
 1. **World Words:**
    Panglobish is an evenly global language.
